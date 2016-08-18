@@ -1,5 +1,5 @@
 "use strict";
-require("materialize");
+require("materialize-css");
 // export {Materialize,MaterializeOptions} from "./materialize";
 var materialize_directive_1 = require("./materialize-directive");
 exports.MaterializeDirective = materialize_directive_1.MaterializeDirective;
