@@ -11,6 +11,7 @@
   },
   "files": [
     "src/materialize-directive.ts",
+    "src/materialize-module.ts",
     "src/custom-event-polyfill.ts",
     "src/index.ts",
     "app/main.ts",
